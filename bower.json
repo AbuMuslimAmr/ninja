@@ -1,0 +1,13 @@
+{
+  "name": "ninja",
+  "version": "0.0.0",
+  "main": "app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/components"
+  ],
+  "dependencies": {
+    "angular": "1.4.5"
+  }
+}
